@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Youtube OpsKit
+> Find out everything you need to know to reliably scrape Youtube with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/youtube)
+
+This kit provides the blueprint for Youtube scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-youtube-scrapers)
 - [Scrapers By Language](#youtube-scrapers-by-language)
@@ -36,36 +47,35 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-youtube-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [node-ytdl-core](https://github.com/fent/node-ytdl-core) ![img](https://github.com/fent.png?size=20) | javascript | ⭐ 4646 | ✅ Yes | 2024-08-13 | ✅ |
-| [scrapetube](https://github.com/dermasmid/scrapetube) ![img](https://github.com/dermasmid.png?size=20) | python | ⭐ 411 | ✅ Yes | 2025-03-24 | ✅ |
-| [Trending-YouTube-Scraper](https://github.com/mitchelljy/Trending-YouTube-Scraper) ![img](https://github.com/mitchelljy.png?size=20) | python | ⭐ 331 | ✅ Yes | 2020-05-01 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [node-ytdl-core](https://github.com/fent/node-ytdl-core) ![img](https://github.com/fent.png?size=20) | javascript | ⭐ 4646 | ❌ No | 2024-08-13 |
+| [scrapetube](https://github.com/dermasmid/scrapetube) ![img](https://github.com/dermasmid.png?size=20) | python | ⭐ 411 | ✅ Yes | 2025-03-24 |
+| [Trending-YouTube-Scraper](https://github.com/mitchelljy/Trending-YouTube-Scraper) ![img](https://github.com/mitchelljy.png?size=20) | python | ⭐ 331 | ❌ No | 2020-05-01 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Youtube Scrapers By Language <a id="youtube-scrapers-by-language"></a>
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [scrapetube](https://github.com/dermasmid/scrapetube) | ⭐ 411 | 2025-03-24 | immediate | ✅ Yes |
+| [Trending-YouTube-Scraper](https://github.com/mitchelljy/Trending-YouTube-Scraper) | ⭐ 331 | 2020-05-01 | immediate | ❌ No |
+| [SouqScraper](https://github.com/enghamzasalem/SouqScraper) | ⭐ 214 | 2024-03-17 | immediate | ❌ No |
+| [the-youtube-scraper](https://github.com/hridaydutta123/the-youtube-scraper) | ⭐ 165 | 2024-05-20 | immediate | ❌ No |
+| [Youtube-Watch-History-Scraper](https://github.com/zvodd/Youtube-Watch-History-Scraper) | ⭐ 155 | 2022-11-04 | immediate | ❌ No |
+| [youtube-transcript-scraper](https://github.com/bernorieder/youtube-transcript-scraper) | ⭐ 106 | 2024-04-28 | professional | ❌ No |
+| [youtube](https://github.com/openzim/youtube) | ⭐ 66 | 2025-04-24 | immediate | ✅ Yes |
+
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [node-ytdl-core](https://github.com/fent/node-ytdl-core) | ⭐ 4646 | 2024-08-13 | — | ✅ Yes |
-| [youtube-captions-scraper](https://github.com/algolia/youtube-captions-scraper) | ⭐ 294 | 2024-02-28 | — | ✅ Yes |
-| [youtube-comment-scraper](https://github.com/philbot9/youtube-comment-scraper) | ⭐ 248 | 2021-01-31 | — | ✅ Yes |
-
-
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [scrapetube](https://github.com/dermasmid/scrapetube) | ⭐ 411 | 2025-03-24 | — | ✅ Yes |
-| [Trending-YouTube-Scraper](https://github.com/mitchelljy/Trending-YouTube-Scraper) | ⭐ 331 | 2020-05-01 | — | ✅ Yes |
-| [SouqScraper](https://github.com/enghamzasalem/SouqScraper) | ⭐ 214 | 2024-03-17 | — | ✅ Yes |
-| [the-youtube-scraper](https://github.com/hridaydutta123/the-youtube-scraper) | ⭐ 165 | 2024-05-20 | — | ✅ Yes |
-| [Youtube-Watch-History-Scraper](https://github.com/zvodd/Youtube-Watch-History-Scraper) | ⭐ 155 | 2022-11-04 | — | ✅ Yes |
-| [youtube-transcript-scraper](https://github.com/bernorieder/youtube-transcript-scraper) | ⭐ 106 | 2024-04-28 | — | ✅ Yes |
-| [youtube](https://github.com/openzim/youtube) | ⭐ 66 | 2025-04-24 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [node-ytdl-core](https://github.com/fent/node-ytdl-core) | ⭐ 4646 | 2024-08-13 | professional | ❌ No |
+| [youtube-captions-scraper](https://github.com/algolia/youtube-captions-scraper) | ⭐ 294 | 2024-02-28 | immediate | ❌ No |
+| [youtube-comment-scraper](https://github.com/philbot9/youtube-comment-scraper) | ⭐ 248 | 2021-01-31 | beginner | ❌ No |
 
 ---
 
@@ -96,7 +106,7 @@ Know a Youtube scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
