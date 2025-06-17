@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Youtube OpsKit
-> Find out everything you need to know to reliably scrape Youtube with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/youtube)
+> Find out everything you need to know to reliably scrape Youtube with our new tool: [Ops Kit](https://scrapeops.io/websites/youtube)
 
 This kit provides the blueprint for Youtube scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -94,7 +94,7 @@ This kit provides the blueprint for Youtube scraping operations:
 ---
 
 ## 🧠 Youtube Tutorials & How-Tos<a id="youtube-tutorials"></a>
-- 📘 [How to Scrape Youtube at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-youtube/)
+- 📘 [How to Scrape Youtube at Scale](https://scrapeops.io/websites/youtube/how-to-scrape-youtube)
 - 🔐 [Web Scraping Youtube Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
